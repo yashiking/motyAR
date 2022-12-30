@@ -43,7 +43,7 @@
     "kind-of": "^6.0.3",
     "main.css": "2.0.0",
     "minimist": "^1.2.5",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "modernizr": "3.10.0",
     "normalize.css": "8.0.1",
     "ssri": "^8.0.0",
